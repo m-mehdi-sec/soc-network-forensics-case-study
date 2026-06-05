@@ -272,8 +272,6 @@ More details are available in [incident-report.md](incident-report.md).
 
 ---
 
----
-
 ## Repository Structure
 
 ```text
