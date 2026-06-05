@@ -274,7 +274,7 @@ More details are available in [incident-report.md](incident-report.md).
 
 ## Repository Structure
 
-~~~text
+```text
 soc-network-forensics-case-study/
 │
 ├── README.md
@@ -282,9 +282,8 @@ soc-network-forensics-case-study/
 ├── timeline.md
 ├── iocs.md
 ├── attack-classification.md
-├── lessons-learned.md
-└── screenshots/
-~~~
+├── threat-hunting.md
+└── lessons-learned.md
 
 ---
 
