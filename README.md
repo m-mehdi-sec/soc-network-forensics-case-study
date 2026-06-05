@@ -334,3 +334,12 @@ This repository is based on a simulated and fictional SOC case study created for
 No real company data, real user data, malware samples, or live attack infrastructure are included.
 
 The purpose of this repository is to document defensive analysis, incident response thinking, and network forensics methodology.
+
+---
+
+## Author
+
+**Muhammad Mehdi**  
+IT Security Developer Student  
+
+---
