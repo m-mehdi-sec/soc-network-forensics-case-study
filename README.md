@@ -272,6 +272,8 @@ More details are available in [incident-report.md](incident-report.md).
 
 ---
 
+---
+
 ## Repository Structure
 
 ```text
@@ -284,6 +286,7 @@ soc-network-forensics-case-study/
 ├── attack-classification.md
 ├── threat-hunting.md
 └── lessons-learned.md
+```
 
 ---
 
@@ -293,6 +296,7 @@ soc-network-forensics-case-study/
 - [Timeline](timeline.md)
 - [Indicators of Compromise](iocs.md)
 - [Attack Classification](attack-classification.md)
+- [Threat Hunting](threat-hunting.md)
 - [Lessons Learned](lessons-learned.md)
 
 ---
